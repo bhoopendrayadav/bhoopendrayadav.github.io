@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>contact us</title>
+<link href="AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
+<link href="shivam.css" rel="stylesheet" type="text/css">
+<link href="1.css" rel="stylesheet" type="text/css">
+<link href="3.css" rel="stylesheet" type="text/css">
+<link href="h1.css" rel="stylesheet" type="text/css">
+<link href="h2.css" rel="stylesheet" type="text/css">
+<link href="DESIGN.CSS" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+
+<!-- Header content -->
+<header>
+     <p class="logoPlaceholder"><a href="file:///C|/Users/mk/Documents/Unnamed Site 2/PicsArt_03-14-08.47.48.jpg"> 
+        <!-- <img src="logoImage.png" alt="sample logo"> -->
+     <img src="PicsArt_03-14-08.47.48.jpg" width="100 px" height="100 px" > </a></p>
+   
+  </div>
+  <div class="profilePhoto"> 
+    <!-- Profile photo --> 
+    <img src="lp.png" alt="sample"> </div>
+  <!-- Identity details -->
+  <section class="profileHeader">
+    <h1 id="h1">MOUNT LITERA ZEE SCHOOL&nbsp; ETAWAH</h1>
+    <blockquote>
+      <h3 id="h2"><strong id="h2">GREAT SCHOOL, GREAT FUTURE&nbsp;</strong></h3>
+    </blockquote>
+<hr>
+    <p>We trim students into disciplined citizens and yet we don't believe in turning them into tamed pygmies. we are here to create a generation of courageous young men and women who can face harsh realities of life. We make scholars but not bookworms; players but not doping machines, we empower teachers but don't let them become mini- dictators. We understand that only quality education can help them tide-over the challenges ahead. A well-knit schedule of activities aims at grooming them into well-rounded personalities. Only quality education, which is a synthesis of the cultural and the modern, can prepare them to face the battle of life. In short, we assure you a harmonious and holistic development of the child.&nbsp;</p>
+  </section> 
+  <h1 align="left" id="DESIGN"><em><strong>DESIGNED BY:</strong></em></h1>
+  <!-- Links to Social network accounts -->
+  <aside class="socialNetworkNavBar">
+    <div class="socialNetworkNav"> 
+      <!-- Add a Anchor tag with nested img tag here -->      </div>
+	  
+    <div class="socialNetworkNav"> 
+	
+   <!-- Add a Anchor tag with nested img tag here --> 
+      <img src="SHIVAM.jpg"  alt="sample" width="74" height="74" id="shivam"> </div>
+    <div class="socialNetworkNav"> 
+      <!-- Add a Anchor tag with nested img tag here --> 
+      <img src="WhatsApp Image 2019-11-05 at 19.10.13.jpeg"  alt="sample" width="74" height="74" id="shivam"> </div>
+    <div class="socialNetworkNav"> 
+      <!-- Add a Anchor tag with nested img tag here -->      </div>
+  </aside>
+</header> 
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <h3> <p align="center"><em> <a href="https://www.facebook.com/shivamchampion9/" id="1">&nbsp; shivam kumar<font color="#FFFFFF" id="3">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</font></a><a href="https://www.facebook.com/profile.php?id=100006658607492">bhoopendra yadav </a></em></h3>
+	  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CLASS&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 11&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11</p>
+		<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SR.NO&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 406&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1236</p>
+    </blockquote>
+  </blockquote>
+</blockquote>
+<br>
+<br> 
+	
+<!-- content -->
+<section class="mainContent"> 
+  <!-- Contact details -->
+  <section class="section1">
+    <h2><em>PRINCIPAL OFFICE CONTACT &nbsp; &nbsp;&nbsp;</em></h2>
+<hr class="sectionTitleRule2">
+    <div class="section1Content">
+      <p><span>Email :<a href=mailto"principalmlzsetawah@gmail.com">principalmlzsetawah@gmail.com</a> ; <a href=mailto"zeeschooletawah@gmail.com">zeeschooletawah@gmail.com</a> </span> </p>
+      <p><span>Website :</span><a href="http://www.mlzsetawah.com/">www.mlzsetawah.com</a></p>
+      <p><span>Phone :&nbsp;</span><a href=callto"+91-9219-600-555">+91-9219-600-555</a> ;<a href=callto"+91-9219-600-500">+91-9219-600-500</a> </p>
+      <p><span>Address :</span><a href="https://www.google.com/maps/place/Mount+Litera+Zee+School+Etawah/@26.815081,79.059235,16z/data=!4m5!3m4!1s0x0:0x12071c6c0ca64bc!8m2!3d26.8139603!4d79.0581189?hl=en-US">Sai City Udaypura Farrukhabad Road, NH92, Etawah, Uttar Pradesh 206001</a></p>
+    </div>
+  </section>
+  <!-- Previous experience details -->
+  <section class="section2">
+    <h2 class="sectionTitle"> social link</h2>
+    <h2 class="sectionTitle">&nbsp;</h2>
+	  <ul class="footer_social">
+                  <li><a data-toggle="tooltip" data-placement="top" title="" class="soc_tooltip" target="_blank" href="https://www.facebook.com/Mount-Litera-Zee-School-Etawah-169544759758266/" data-original-title="Facebook"><i class="fa fa-facebook"></i>facebook</a></li>
+		  
+                  <li><a data-toggle="tooltip" data-placement="top" title="" class="soc_tooltip" target="_blank" href="https://twitter.com/MLZS_etawah" data-original-title="Twitter"><i class="fa fa-twitter"></i>twitter</a></li>
+                  <li><a data-toggle="tooltip" data-placement="top" title="" class="soc_tooltip" href="#" data-original-title="Google+"><i class="fa fa-google-plus"></i>google plus</a></li>
+                  <li><a data-toggle="tooltip" data-placement="top" title="" class="soc_tooltip" target="_blank" href="https://www.instagram.com/mlzs_etawah/" data-original-title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i>instagram</a></li>
+                  <li><a data-toggle="tooltip" data-placement="top" title="" class="soc_tooltip" href="#" data-original-title="Youtube"><i class="fa fa-youtube"></i>youtube</a></li>
+    </ul>
+<hr class="sectionTitleRule">
+   
+ 
+<footer>
+  <hr>
+  <p class="footerDisclaimer">2019  Copyrights - <span>All Rights Reserved</span></p>
+  <p class="footerNote">SHIVAM KUMR- <span>championshivam009@gmail.com</span></p>
+</footer>
+</body>
+</html>
